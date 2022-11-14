@@ -1,0 +1,15 @@
+C:\Users\Pavlo\source\repos\Painting_ASCII\Painting_ASCII\bin\Debug\net6.0\Painting_ASCII.exe
+C:\Users\Pavlo\source\repos\Painting_ASCII\Painting_ASCII\bin\Debug\net6.0\Painting_ASCII.deps.json
+C:\Users\Pavlo\source\repos\Painting_ASCII\Painting_ASCII\bin\Debug\net6.0\Painting_ASCII.runtimeconfig.json
+C:\Users\Pavlo\source\repos\Painting_ASCII\Painting_ASCII\bin\Debug\net6.0\Painting_ASCII.dll
+C:\Users\Pavlo\source\repos\Painting_ASCII\Painting_ASCII\bin\Debug\net6.0\Painting_ASCII.pdb
+C:\Users\Pavlo\source\repos\Painting_ASCII\Painting_ASCII\obj\Debug\net6.0\Painting_ASCII.csproj.AssemblyReference.cache
+C:\Users\Pavlo\source\repos\Painting_ASCII\Painting_ASCII\obj\Debug\net6.0\Painting_ASCII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pavlo\source\repos\Painting_ASCII\Painting_ASCII\obj\Debug\net6.0\Painting_ASCII.AssemblyInfoInputs.cache
+C:\Users\Pavlo\source\repos\Painting_ASCII\Painting_ASCII\obj\Debug\net6.0\Painting_ASCII.AssemblyInfo.cs
+C:\Users\Pavlo\source\repos\Painting_ASCII\Painting_ASCII\obj\Debug\net6.0\Painting_ASCII.csproj.CoreCompileInputs.cache
+C:\Users\Pavlo\source\repos\Painting_ASCII\Painting_ASCII\obj\Debug\net6.0\Painting_ASCII.dll
+C:\Users\Pavlo\source\repos\Painting_ASCII\Painting_ASCII\obj\Debug\net6.0\refint\Painting_ASCII.dll
+C:\Users\Pavlo\source\repos\Painting_ASCII\Painting_ASCII\obj\Debug\net6.0\Painting_ASCII.pdb
+C:\Users\Pavlo\source\repos\Painting_ASCII\Painting_ASCII\obj\Debug\net6.0\Painting_ASCII.genruntimeconfig.cache
+C:\Users\Pavlo\source\repos\Painting_ASCII\Painting_ASCII\obj\Debug\net6.0\ref\Painting_ASCII.dll

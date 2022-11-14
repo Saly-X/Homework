@@ -1,0 +1,15 @@
+C:\Users\Pavlo\source\repos\Pascal's_triangle\Pascal's_triangle\bin\Debug\net6.0\Pascal's_triangle.exe
+C:\Users\Pavlo\source\repos\Pascal's_triangle\Pascal's_triangle\bin\Debug\net6.0\Pascal's_triangle.deps.json
+C:\Users\Pavlo\source\repos\Pascal's_triangle\Pascal's_triangle\bin\Debug\net6.0\Pascal's_triangle.runtimeconfig.json
+C:\Users\Pavlo\source\repos\Pascal's_triangle\Pascal's_triangle\bin\Debug\net6.0\Pascal's_triangle.dll
+C:\Users\Pavlo\source\repos\Pascal's_triangle\Pascal's_triangle\bin\Debug\net6.0\Pascal's_triangle.pdb
+C:\Users\Pavlo\source\repos\Pascal's_triangle\Pascal's_triangle\obj\Debug\net6.0\Pascal's_triangle.csproj.AssemblyReference.cache
+C:\Users\Pavlo\source\repos\Pascal's_triangle\Pascal's_triangle\obj\Debug\net6.0\Pascal's_triangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pavlo\source\repos\Pascal's_triangle\Pascal's_triangle\obj\Debug\net6.0\Pascal's_triangle.AssemblyInfoInputs.cache
+C:\Users\Pavlo\source\repos\Pascal's_triangle\Pascal's_triangle\obj\Debug\net6.0\Pascal's_triangle.AssemblyInfo.cs
+C:\Users\Pavlo\source\repos\Pascal's_triangle\Pascal's_triangle\obj\Debug\net6.0\Pascal's_triangle.csproj.CoreCompileInputs.cache
+C:\Users\Pavlo\source\repos\Pascal's_triangle\Pascal's_triangle\obj\Debug\net6.0\Pascal's_triangle.dll
+C:\Users\Pavlo\source\repos\Pascal's_triangle\Pascal's_triangle\obj\Debug\net6.0\refint\Pascal's_triangle.dll
+C:\Users\Pavlo\source\repos\Pascal's_triangle\Pascal's_triangle\obj\Debug\net6.0\Pascal's_triangle.pdb
+C:\Users\Pavlo\source\repos\Pascal's_triangle\Pascal's_triangle\obj\Debug\net6.0\Pascal's_triangle.genruntimeconfig.cache
+C:\Users\Pavlo\source\repos\Pascal's_triangle\Pascal's_triangle\obj\Debug\net6.0\ref\Pascal's_triangle.dll
